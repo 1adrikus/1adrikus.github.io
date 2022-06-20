@@ -1,0 +1,93 @@
+.espacio{
+    width: 90vw;
+    border: 5px solid sandybrown;
+    height: 90vh;
+    gap: 10px;
+    columns: 3 - 1fr ;
+    
+    font-family: 'trebuchet MS' , 'Lucida Sans Unicode';
+    font: 30pt;
+    display: block;
+ 
+
+}
+.escudo{
+   width: 120px;
+   height: 100px;
+}
+.elemento{
+    columns:  50px 100px 50px 100px 1fr;
+    row-gap: 3- 33px ;
+   }
+   .elem6{
+    font-size: 12pt;
+   }
+
+
+   .direccion{
+    width: 95%;
+    height: 95%;
+    font-size: 30px;
+   }
+.elem1{
+     background-image: url(otono.jpg);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+    }
+
+.elem2{
+        background-color: blueviolet;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       
+       }
+   
+ .elem3{
+        background-color: chartreuse;
+        font-family: '';
+        
+       }
+
+ .elem4{
+        background-color: cornflowerblue;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+       }
+
+.elem5{
+        background-image: url();
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+       }
+   
+   
+
+   
+    
+    
+    
+    
+
+
+/*.contenedor{
+    width: 90%;
+    height: 700px;
+    border: 10px solid blueviolet;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(3,150px) ;
+    grid-template-rows: repeat(3,auto);
+    justify-items: auto;
+    align-items: auto;
+    justify-content: space-evenly;
+    align-content: center;
+    }
+    
+    
+    .contenedor div{
+    background-color: aqua;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    }
