@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: deeppink;
+     text-align: center;
+     text-decoration: underline;
+     text-shadow: 5pt 5pt navy;
+}
+p{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:cadetblue;
+text-decoration: overline;
+}
+li{
+color: mediumorchid;
+}
+img{
+width: 100px;    
+height: 100px;
+}
