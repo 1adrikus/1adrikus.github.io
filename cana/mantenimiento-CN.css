@@ -1,0 +1,35 @@
+h1{
+    background-color: aquamarine;
+    font-size: 50px;
+    font-family: ravie;
+    color: blueviolet;
+    text-align: center;
+}
+h2{
+    background-color: greenyellow;
+    font-size: 30px;
+    font-family: comic sans ms;
+    color: olive;
+    text-align: left;
+    width: 310pt;
+    height: 40pt;
+}
+p{
+    color:rgb(240, 232, 12);
+    background-color: rgba(198, 5, 70, 0.537);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+
+body{
+    background-image: url(descarga.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+img{
+    height: 300px;
+    width: 550px;
+    border-radius: 50pt;
+}
